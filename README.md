@@ -31,8 +31,8 @@ Phishing remains one of the most common and damaging cyber threats. Early and ac
 - Focused on high **Recall** to minimize false negatives (missing actual phishing sites)
 
 ## 📄 Reports
-- [Full Project Report (PDF)](website-phishing-detection/blob/main/Website%20Phishing%20Detection/Reports/Website%20Phishing%20Detection%20Report.pdf)
-- [Presentation Slides (PDF)](website-phishing-detection/blob/main/Website%20Phishing%20Detection/Reports/Website%20Phishing%20Detection%20Slides.pdf)
+- [Full Project Report (PDF)](Website%20Phishing%20Detection/Reports/Website%20Phishing%20Detection%20Report.pdf)
+- [Presentation Slides (PDF)](Website%20Phishing%20Detection/Reports/Website%20Phishing%20Detection%20Slides.pdf)
 
 ## 🛠️ Technologies Used
 **Python** • **pandas** • **scikit-learn** • **XGBoost** • **LightGBM** • **CatBoost** • **Matplotlib** • **Seaborn**
