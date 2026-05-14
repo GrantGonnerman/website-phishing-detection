@@ -9,7 +9,7 @@ This project builds accurate classification models to identify phishing (malicio
 Phishing remains one of the most common and damaging cyber threats. Early and accurate detection allows organizations and security tools to block fraudulent websites, protecting users and reducing financial and reputational damage.
 
 ## 🗂️ Dataset
-- **Source**: Phishing website dataset (loaded from AWS S3)
+- **Source**: Phishing website dataset ([Kaggle](https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning?resource=download))
 - **Target**: Binary classification (`phishing` vs `legitimate`)
 - **Features**: URL-based characteristics, domain info, page content features, SSL certificate details, traffic statistics, and other website metadata.
 
